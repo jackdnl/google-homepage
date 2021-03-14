@@ -201,7 +201,7 @@ footer{
 
 #footer-links-left a, #footer-links-right a {
     text-decoration: none;
-    font-size: 1;
+    font-size: 14px;
     color: grey;
     padding: 0px 4px 0px 4px;
     white-space: nowrap;
